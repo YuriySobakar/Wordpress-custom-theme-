@@ -24,6 +24,7 @@ Wordpress custom theme from scratch
 ## JS libraries:
 - Slick slider (link)
 - Fancybox 3 (link)
+- jQuery
 
 ## You should send us the:
 - installer.php
