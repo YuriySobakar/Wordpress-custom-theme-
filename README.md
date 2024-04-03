@@ -1,5 +1,9 @@
 # Wordpress-custom-theme-
-Wordpress custom theme from scratch
+Wordpress custom theme from scratch.
+- Preview link: http://sobakar-wla-test.byethost16.com/?i=1
+- Access to the Admin panel: 
+  - login: wordpress
+  - password: 06x5FJTT3YY/1EyB
 
 ## Main requirements:
 - The website has to be totally responsive and maximum identical to the mock-up.
